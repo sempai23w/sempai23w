@@ -8,17 +8,26 @@
 
 ## Minhas Skills
 
-**Linguagens e bancos**
+**Front-End**
 
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+![React (Iniciante)](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript (Intermediário)](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript)
+![HTML (Intermediário)](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5)
+![CSS (Intermediário)](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3)
+
+**Back-End**
+
+![Node.js (Intermediário)](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js)
+![Python (Intermediário)](https://img.shields.io/badge/-Python-informational?style=flat&logo=python)
+![Lua (Intermediário)](https://img.shields.io/badge/-Lua-informational?style=flat&logo=lua)
+![Java (Básico)](https://img.shields.io/badge/-Java-informational?style=flat&logo=java)
+![C# (Básico)](https://img.shields.io/badge/-CSharp-informational?style=flat&logo=csharp)
+![.NET (Básico)](https://img.shields.io/badge/-.NET-informational?style=flat&logo=dotnet)
+
+**Bancos de Dados**
+
+![SQLite (Intermediário)](https://img.shields.io/badge/-SQLite-informational?style=flat&logo=sqlite)
+![MySQL (Básico)](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql)
 
 **DevOps**
 
