@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-## ⭐ Here's some information about my GitHub account:
+## ⭐ GitHub Insights
 <div>
   <a href="https://github.com/sempai23w">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sempai23w&show_icons=true&theme=shades-of-purple&hide_border=true" />
@@ -68,6 +68,9 @@
   </a>
 </div>
 
+<br/>
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31383)](https://codetime.dev)
 
 #### Social networks!
 
@@ -76,5 +79,5 @@
 🤖 [Discord](https://discord.com/users/962811453293875220)
 
 <div align="left">
-  <img  src="https://discord.c99.nl/widget/theme-1/962811453293875220.png"/>
+  <img src="https://discord.c99.nl/widget/theme-1/962811453293875220.png"/>
 </div>
