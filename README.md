@@ -1,70 +1,79 @@
-![](https://komarev.com/ghpvc/?username=sempai23w&color=006bed)
+## 💜 Hi! Happy to see you here, <strong>I'm Sempai23w!</strong> ![](https://komarev.com/ghpvc/?username=sempai23w&color=006bed)
 
-<h1 align="center">Fala aí! 👋 Eu sou o Robson (Sempai23w)</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center">
-Desenvolvedor focado em Back-End, bots e automações.<br/>
-Apaixonado por tecnologia, café ☕ e quebrar código no erro pra aprender 💥.<br/>
+<p align="left"> 
+  Hey! I'm Robson, also known as Sempai23w. I'm a backend-focused developer passionate about bots, automations, coffee ☕ and breaking things to learn 💥. Always leveling up and building creative stuff with Node.js, Python, and more.
 </p>
 
----
+ - 💻 Full Stack dev — backend is my playground.
+ - 🤖 I build bots, APIs, and powerful automations.
+ - 🛠️ Into Node.js, Python, Java, C#, Lua, and JS.
+ - 🚀 Always learning and helping the dev community.
 
-## 🚀 Sobre mim
+<p align="left">
+  💌 Where to find me: ⤵️
+</p>
 
-- 💻 Full Stack dev — mais focado no Back-End.
-- 🤖 Crio bots, APIs e automações insanas.
-- 🔥 Apaixonado por Node.js, Python e tecnologia.
-- 🎯 Buscando sempre evoluir e ajudar a galera dev.
+<p align="left">
+  <a href="mailto:robsonjosecorreacarvalho@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://github.com/sempai23w" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
+  </a>
+  <a href="https://discord.com/users/962811453293875220" title="Discord">
+    <img src="https://img.shields.io/badge/-Discord-333333?style=flat&labelColor=5865F2&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
----
+<br/>
+<br/>
 
-## 🧠 Skills
+## 🚀 My Skills
+**Applications and data**
 
-### 💻 Front-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+**Databases**
 
-### 🔗 Back-End
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+**DevOps**
 
-### 🗄️ Bancos de Dados
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<br/>
+<br/>
 
-### 🚀 DevOps e Ferramentas
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+## ⭐ GitHub Stats
+<div>
   <a href="https://github.com/sempai23w">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sempai23w&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempai23w&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sempai23w&show_icons=true&theme=shades-of-purple&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempai23w&layout=compact&theme=shades-of-purple&hide_border=true" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=sempai23w&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a> 
   </a>
 </div>
 
----
+#### Social networks!
 
-## 📫 Contato
+🏡 [Website (coming soon)](#) **|**  
+📧 [Email](mailto:robsonjosecorreacarvalho@gmail.com) **|**  
+🤖 [Discord](https://discord.com/users/962811453293875220)
 
-[![Gmail](https://img.shields.io/badge/-robsonjosecorreacarvalho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsonjosecorreacarvalho@gmail.com)](mailto:robsonjosecorreacarvalho@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/sempai23w?label=follow&style=social)](https://github.com/sempai23w)
-
----
-
-⭐ Se curtir, deixa uma estrela nos projetos! 😎🚀
+<div align="left">
+  <img  src="https://discord.c99.nl/widget/theme-1/962811453293875220.png"/>
+</div>
