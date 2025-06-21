@@ -59,13 +59,13 @@
 <br/>
 <br/>
 
-## ⭐ GitHub Stats
+## ⭐ Here's some information about my GitHub account:
 <div>
-  <a href="https://github.com/sempai23w">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sempai23w&show_icons=true&theme=shades-of-purple&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempai23w&layout=compact&theme=shades-of-purple&hide_border=true" />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=sempai23w&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a> 
-  </a>
+  <a href="https://github.com/XDukeHD">
+  <img height="530em" src="https://wakatime.com/share/@XDuke/38dd03d0-43c3-4b4e-957b-907a701d8cf0.svg"/>  
+  <img height="130em" src="https://wakatime.com/share/@XDuke/09aaf791-3be1-4570-8b93-f0e0658afe6e.svg"/>  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=XDukeHD&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a> 
+ </a>
 </div>
 
 #### Social networks!
