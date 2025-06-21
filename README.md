@@ -74,10 +74,6 @@
 
 #### Social networks!
 
-🏡 [Website (coming soon)](#) **|**  
+🏡 [Website](https://port-folio-two-indol.vercel.app) **|**    
 📧 [Email](mailto:robsonjosecorreacarvalho@gmail.com) **|**  
 🤖 [Discord](https://discord.com/users/962811453293875220)
-
-<div align="left">
-  <img src="https://discord.c99.nl/widget/theme-1/962811453293875220.png"/>
-</div>
